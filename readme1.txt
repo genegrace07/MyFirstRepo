@@ -1,6 +1,6 @@
 WELCOME TO READ ME
 
-Name: Mark Dador
+Name: Mark Anthony Dador
 
 readme
 readme2
